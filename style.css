@@ -1,0 +1,9 @@
+body{font-family:candara}
+h1,h4{text-align:center}
+#top{margin:50px 150px}
+h4{margin:-20px 0px 20px 0px}
+#inpu1,#inpu2,#inpu3,#inpu4{border:2px solid;border-color:rgb(204, 136, 147);width:117px;padding:10px;border-radius:2px;}
+button{cursor:pointer;border:none;border-radius:2px;width:110px;padding:10px;background-color:rgb(204, 136, 147);color:white}
+#base{margin-left:150px;margin-top:-20px}
+.delete{background-color:#1e0110;width:500px}
+.delete:hover{background-color:#fa86c4}
