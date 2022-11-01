@@ -14,7 +14,7 @@ function currentDate(){
     const year = now.getFullYear()
   let monthword =['January','February','March','April','May','June',
   'July','August','September','October','November','December']
-    let month = monthword[now.getMonth()-1]
+    let month = monthword[now.getMonth()]
     let date = now.getDate()
     let hours = now.getHours()
     let min = now.getMinutes()
